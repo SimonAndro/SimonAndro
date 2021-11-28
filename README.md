@@ -40,7 +40,7 @@
   <summary>GitHub Stats</summary>
 
   <img align="left" alt="SimonAndro's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=simonandro&count_private=true&show_icons=true&hide_border=true&theme=merko" />
-
+<br>
    <img align="left" alt="SimonAndro's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonandro&layout=compact" />
 
 </details>
