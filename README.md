@@ -28,16 +28,20 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 <br />
 <br />
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<details open>
+  <summary>GitHub Stats</summary>
 
-  <img align="left" alt="SimonAndro's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SimonAndro&show_icons=true&hide_border=true" />
+  <img align="left" alt="SimonAndro's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=simonandro&count_private=true&show_icons=true&hide_border=true&theme=merko" />
+
+   <img align="left" alt="SimonAndro's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonandro&layout=compact" />
 
 </details>
 
