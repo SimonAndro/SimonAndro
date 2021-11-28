@@ -1,6 +1,6 @@
 ### Hi there, I'm Nakibinge Simon 👋 
 
-[Checkout My website](SimonAndro.github.io)
+[[!Website]Checkout My website](https://simonandro.github.io/)
 
 ## I'm a Leader, Developer and a Teacher 
 
