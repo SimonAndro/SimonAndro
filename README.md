@@ -1,6 +1,6 @@
 ### Hi there, I'm Nakibinge Simon 👋 
 
-[Checkout my website](https://simonandro.github.io/)
+![Website](https://img.shields.io/website?color=orange&down_color=red&down_message=offline&label=visit%20my%20website&logo=Simon&logoColor=blue&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fsimonandro.github.io%2F)
 
 ## I'm a Leader, Developer and a Teacher 
 
