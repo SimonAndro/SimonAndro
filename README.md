@@ -1,7 +1,8 @@
 ### Hi there, I'm Nakibinge Simon 👋 
 
+[Checkout My website](SimonAndro.github.io)
 
-## I'm a Leader, Developer and a Teacher
+## I'm a Leader, Developer and a Teacher 
 
 - 🔭 I am currently working on a Medical AI system for detecting abnomalies in ECG signals
 - 🥅 2022 Goals: Contribute to Open Source projects
