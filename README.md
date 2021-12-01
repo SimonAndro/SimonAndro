@@ -4,7 +4,7 @@
 
 ## I'm a Leader, Developer and a Teacher 
 
-- 🔭 I am currently working on a Medical AI system for detecting abnomalies in ECG signals
+- 🔭 I am currently working on a Medical AI system for detecting anomalies in ECG signals
 - 🥅 2022 Goals: Contribute to Open Source projects
 - 👯 I’m looking forward to working with other developers
 - ⚡ Fun Fact: I love reading and coding
