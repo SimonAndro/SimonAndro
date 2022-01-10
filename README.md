@@ -7,7 +7,7 @@
 - 🔭 I am currently working on a Medical AI system for detecting anomalies in ECG signals
 - 🥅 2022 Goals: Contribute to Open Source projects
 - 👯 I’m looking forward to working with other developers
-- ⚡ Fun Fact: I love reading and coding (and I don't use dark mode)
+- ⚡ Fun Fact: I love reading and coding (no dark mode)
 
 ### Connect with me:
 
