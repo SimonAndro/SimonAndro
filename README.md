@@ -2,9 +2,9 @@
 
 [![Website](https://img.shields.io/website?color=green&down_color=red&down_message=offline&label=visit%20my%20website&logo=Simon&logoColor=blue&style=for-the-badge&up_color=green&url=https%3A%2F%2Fsimonandro.github.io%2F)](https://simonandro.github.io/)
 
-- 🔭 I am currently working on a Medical AI system for detecting anomalies in ECG signals
-- 🥅 2023 Goals: Contribute to Open Source projects
-- 👯 I’m looking forward to working with other developers
+- 🔭 I am currently working on Reinforcement learning for Investment Strategies
+- 🥅 2024 Goals: Contribute to Open Source projects
+- 👯 I’m looking forward to working with other developers and decision makers.
 - ⚡ Fun Fact: I love reading and coding (no dark mode)
 
 ### Connect with me:
