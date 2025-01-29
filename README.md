@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?color=green&down_color=red&down_message=offline&label=visit%20my%20website&logo=Simon&logoColor=blue&style=for-the-badge&up_color=green&url=https%3A%2F%2Fsimonandro.github.io%2F)](https://simonandro.github.io/)
 
 - 🔭 I am currently working on [Neexa](https://neexa.co)
-- 🥅 2025 Goals: Help more businesses close sales effortlessly
+- 🥅 2025 Goals: Leveraging technology and innovation to help more businesses close sales effortlessly.
 - 👯 I’m looking forward to working with other developers and decision makers.
 - ⚡ Fun Fact: I love reading and coding (no dark mode)
 
